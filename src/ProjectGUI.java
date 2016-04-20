@@ -1,4 +1,4 @@
-package il.ac.shenkar.finalproject;
+package src;
 
 import java.awt.*;
 import java.awt.event.ItemEvent;

@@ -672,3 +672,69 @@
 2016-04-20 12:17:45 INFO  :106 - From: USD  Amount: 1.0
 2016-04-20 12:17:47 INFO  :159 - To: NIS  Result: 3.763
 2016-04-20 12:17:47 INFO  :159 - To: NIS  Result: 3.763
+2016-04-20 17:08:33 INFO  :57 - Program starting
+2016-04-20 17:08:33 INFO  :58 - Opening stream to bank of israel
+2016-04-20 17:08:33 INFO  :95 - Closing stream with bank of israel
+2016-04-20 17:08:33 INFO  :196 - Successfully built GUI
+2016-04-20 17:08:33 INFO  :134 - Next update in 10 minutes
+2016-04-20 17:09:25 INFO  :57 - Program starting
+2016-04-20 17:10:06 INFO  :57 - Program starting
+2016-04-20 17:16:56 INFO  :57 - Program starting
+2016-04-20 17:16:56 INFO  :58 - Opening stream to bank of israel
+2016-04-20 17:16:56 INFO  :95 - Closing stream with bank of israel
+2016-04-20 17:16:57 INFO  :196 - Successfully built GUI
+2016-04-20 17:16:57 INFO  :134 - Next update in 10 minutes
+2016-04-20 17:17:04 INFO  :106 - From: USD  Amount: 10.0
+2016-04-20 17:17:04 INFO  :106 - From: USD  Amount: 10.0
+2016-04-20 17:17:09 INFO  :159 - To: NIS  Result: 37.58
+2016-04-20 17:17:09 INFO  :159 - To: NIS  Result: 37.58
+2016-04-20 17:22:08 INFO  :57 - Program starting
+2016-04-20 17:22:08 INFO  :58 - Opening stream to bank of israel
+2016-04-20 17:22:08 INFO  :95 - Closing stream with bank of israel
+2016-04-20 17:22:09 INFO  :196 - Successfully built GUI
+2016-04-20 17:22:09 INFO  :134 - Next update in 10 minutes
+2016-04-20 17:23:56 INFO  :57 - Program starting
+2016-04-20 17:23:56 INFO  :58 - Opening stream to bank of israel
+2016-04-20 17:23:56 INFO  :95 - Closing stream with bank of israel
+2016-04-20 17:23:56 INFO  :196 - Successfully built GUI
+2016-04-20 17:23:56 INFO  :134 - Next update in 10 minutes
+2016-04-20 17:29:09 INFO  :57 - Program starting
+2016-04-20 17:29:09 INFO  :58 - Opening stream to bank of israel
+2016-04-20 17:29:09 INFO  :95 - Closing stream with bank of israel
+2016-04-20 17:29:10 INFO  :196 - Successfully built GUI
+2016-04-20 17:29:10 INFO  :134 - Next update in 10 minutes
+2016-04-20 17:29:22 INFO  :57 - Program starting
+2016-04-20 17:29:22 INFO  :58 - Opening stream to bank of israel
+2016-04-20 17:29:23 INFO  :95 - Closing stream with bank of israel
+2016-04-20 17:29:23 INFO  :196 - Successfully built GUI
+2016-04-20 17:29:23 INFO  :134 - Next update in 10 minutes
+2016-04-20 18:01:16 INFO  :57 - Program starting
+2016-04-20 18:01:16 INFO  :51 - Opening stream to bank of israel
+2016-04-20 18:01:16 INFO  :88 - Closing stream with bank of israel
+2016-04-20 18:01:16 INFO  :196 - Successfully built GUI
+2016-04-20 18:01:16 INFO  :127 - Next update in 10 minutes
+2016-04-20 18:02:15 INFO  :57 - Program starting
+2016-04-20 18:02:15 INFO  :51 - Opening stream to bank of israel
+2016-04-20 18:02:15 INFO  :88 - Closing stream with bank of israel
+2016-04-20 18:02:16 INFO  :196 - Successfully built GUI
+2016-04-20 18:02:16 INFO  :127 - Next update in 10 minutes
+2016-04-20 18:02:55 INFO  :57 - Program starting
+2016-04-20 18:02:55 INFO  :51 - Opening stream to bank of israel
+2016-04-20 18:02:55 INFO  :88 - Closing stream with bank of israel
+2016-04-20 18:02:56 INFO  :196 - Successfully built GUI
+2016-04-20 18:02:56 INFO  :127 - Next update in 10 minutes
+2016-04-20 18:42:38 INFO  :57 - Program starting
+2016-04-20 18:42:38 INFO  :51 - Opening stream to bank of israel
+2016-04-20 18:42:38 INFO  :88 - Closing stream with bank of israel
+2016-04-20 18:42:38 INFO  :196 - Successfully built GUI
+2016-04-20 18:42:38 INFO  :127 - Next update in 10 minutes
+2016-04-20 18:45:27 INFO  :57 - Program starting
+2016-04-20 18:45:27 INFO  :51 - Opening stream to bank of israel
+2016-04-20 18:45:27 INFO  :88 - Closing stream with bank of israel
+2016-04-20 18:45:28 INFO  :196 - Successfully built GUI
+2016-04-20 18:45:28 INFO  :127 - Next update in 10 minutes
+2016-04-20 18:46:09 INFO  :57 - Program starting
+2016-04-20 18:46:09 INFO  :51 - Opening stream to bank of israel
+2016-04-20 18:46:10 INFO  :88 - Closing stream with bank of israel
+2016-04-20 18:46:10 INFO  :196 - Successfully built GUI
+2016-04-20 18:46:10 INFO  :127 - Next update in 10 minutes

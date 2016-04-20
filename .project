@@ -15,4 +15,10 @@
 		<nature>org.scala-ide.sdt.core.scalanature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<variableList>
+		<variable>
+			<name>Log4j</name>
+			<value>file:/C:/Users/Daniel/Desktop/java_projects/apache-log4j-1.2.17</value>
+		</variable>
+	</variableList>
 </projectDescription>
